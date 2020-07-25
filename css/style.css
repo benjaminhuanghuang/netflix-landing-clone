@@ -65,7 +65,7 @@ img {
 
 .showcase-top {
 	position: relative;
-	z-index: 2;
+	z-index: 2; 
 	height: 90px;
 }
 
@@ -341,6 +341,7 @@ img {
 	}
 
 	.hide-sm {
+		/*hide on small screen*/
 		display: none;
 	}
 
